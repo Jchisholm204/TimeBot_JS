@@ -1,0 +1,20 @@
+{
+  "name": "timebot_js",
+  "version": "1.0.0",
+  "description": "TimeBot Discord Bot Written in JavaScript",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jchisholm204/TimeBot_JS.git"
+  },
+  "keywords": [],
+  "author": "Jchisholm204",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jchisholm204/TimeBot_JS/issues"
+  },
+  "homepage": "https://github.com/Jchisholm204/TimeBot_JS#readme"
+}
